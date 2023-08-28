@@ -17,5 +17,5 @@
 ## About Me
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=red">](https://dev-green.tistory.com/)
 
-## Algorith Level
+## Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj8504)](https://solved.ac/sj8504/)
