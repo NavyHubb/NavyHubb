@@ -16,7 +16,16 @@
 ## 🏅 Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj8504)](https://solved.ac/sj8504/)
 
+## ✏️ Edu log
+- SSAFY
+  - Java Coding Track
+  - 2023.07 ~ ing
+- Zerobase
+  - Backend School
+  - 2023.01 ~ 2023.06
+- Sungkyunkwan Univ.
+  - Statistics
+  - 2016.03 ~ 2020.02
+
 ## 💚 About Me
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=red">](https://dev-green.tistory.com/)
-
-
