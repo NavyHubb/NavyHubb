@@ -17,13 +17,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj8504)](https://solved.ac/sj8504/)
 
 ## ✏️ Edu log
-- SSAFY
+- **SSAFY**
   - Java Coding Track
   - 2023.07 ~ ing
-- Zerobase
+- **Zerobase**
   - Backend School
   - 2023.01 ~ 2023.06
-- Sungkyunkwan Univ.
+- **Sungkyunkwan Univ.**
   - Statistics
   - 2016.03 ~ 2020.02
 
