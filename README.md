@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=)
 ## 🍀 Intro
-안정과 평온의 초록색을 좋아합니다.   
-초록과 같은 환경 구축을 위해 노력합니다.
+문제해결에 대한 열의를 기반으로 **코드 한줄 허투루 짜지 않는 습관**을 길러왔습니다.  
+즉, 새로운 기능의 개발에 급급하기 보다 기존 코드가 가지고 있는 **냄새 제거**를 우선합니다.  
+이로써 **가독성** 있는 코드를 추구하며 동료와의 협업의 기틀을 마련하는 것을 중요시합니다.
 
 ## 🔧 Skill set
 <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
