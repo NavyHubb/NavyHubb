@@ -4,6 +4,9 @@
 즉, 새로운 기능의 개발에 급급하기 보다 기존 코드가 가지고 있는 **냄새 제거**를 우선합니다.  
 이로써 **가독성** 있는 코드를 추구하며 동료와의 협업의 기틀을 마련하는 것을 중요시합니다.
 
+## Portfolio
+[노션 포트폴리오 바로가기](https://green-archive.notion.site/_-72457ef25aa34986a8aba19ff2438681?pvs=4)
+
 ## 🔧 Skill set
 <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">   
