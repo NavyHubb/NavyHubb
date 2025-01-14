@@ -30,4 +30,3 @@
 
 ## 💚 About Me
 [기술적 고민을 담은 블로그 바로가기](https://dev-green.tistory.com/)   
-[프로젝트 활동을 담은 포트폴리오 바로가기](https://green-archive.notion.site/_-72457ef25aa34986a8aba19ff2438681?pvs=4)
